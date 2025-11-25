@@ -104,6 +104,7 @@ public class Accounts {
         this.ownership = ownership;
     }
 
+
     public LocalDate getCreatedAt() {
         return createdAt;
     }
